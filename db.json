@@ -4,8 +4,10 @@
           "category": "beach cleaning",
           "title": "Cleaning Parlementia",
           "bringBags": true,
-          "time": "12.30",
-          "date": "January 12"
+          "time": NOW(),
+          "date": "January 12",
+          "location": "Parlementia",
+          "description": "Clean out our beach for a cleaner living."
         },
         {
           "id": 2,
@@ -13,6 +15,8 @@
           "title": "Yard sale in Guethary",
           "bringBags": true,
           "time": "8.30",
-          "date": "September 13"
+          "date": "September 13",
+          "location": "Guethary",
+          "description": "Your old stuff is someone elses's new."
         }]
 }
