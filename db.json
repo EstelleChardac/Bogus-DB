@@ -6,7 +6,8 @@
           "bringBags": true,
           "time": "12.30",
           "date": "January 12",
-          "location": "Parlementia"},
+          "location": "Parlementia",
+          "description": "Clean out our beach for a cleaner living"},
         {
           "id": 2,
           "category": "yard sale",
