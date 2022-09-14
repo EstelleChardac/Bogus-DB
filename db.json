@@ -4,7 +4,7 @@
           "category": "beach cleaning",
           "title": "Cleaning Parlementia",
           "bringBags": true,
-          "time": NOW(),
+          "time": "12.30",
           "date": "January 12",
           "location": "Parlementia",
           "description": "Clean out our beach for a cleaner living."
